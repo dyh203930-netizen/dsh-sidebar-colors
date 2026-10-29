@@ -1,0 +1,3 @@
+- insert:
+    - id: sidebar-colors
+      name: '@local/sidebar-colors'
